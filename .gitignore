@@ -1,0 +1,33 @@
+# Object files
+*.o
+*.o.*
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.ko
+*.dylib
+*.mod.c
+
+# Executables
+*.exe
+*.out
+*.app
+# svn tools
+*.svn
+# others
+tags
+.*.swp
+*.tar
+*.xz
+*.gz
+*.tg
+*.bz2
+*.zip
+*.7z
+*.bk
